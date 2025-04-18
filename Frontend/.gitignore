@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# ESLint cache
+.eslintcache
+
+# Optional: TypeScript cache
+*.tsbuildinfo
+
+# Optional: Coverage reports
+coverage/
+
+# Optional: Mac quick look previews
+._*
+
+# Optional: lock files depending on your package manager
+# If you use npm:
+package-lock.json
+# If you use yarn:
+# yarn.lock
+# If you use pnpm:
+# pnpm-lock.yaml
